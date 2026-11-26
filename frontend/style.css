@@ -183,7 +183,7 @@ body {
     border-radius: var(--radius-lg);
     margin: 25px 0 40px 0;
     padding: 50px 20px;
-    background: url('img/banner-website.png') no-repeat center center/cover;
+    background: url('img/banner-website.jpg') no-repeat center center/cover;
     border: 1px solid rgba(0, 243, 255, 0.3);
     overflow: hidden;
     box-shadow: 0 0 25px rgba(0, 243, 255, 0.15);
